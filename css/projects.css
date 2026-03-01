@@ -1,0 +1,23 @@
+/******** COV Consulting Logo *********/
+header a img { 
+    margin-left: 2rem;
+}
+
+/***** Nav Titles *****/
+header > ul {
+    margin-top: 20px;
+}
+
+
+/***** Pump Direct Logo *****/
+.pump-direct {
+    width: 100%;
+    height: 100%;
+    background-image: url(../logos/Pump\ Direct\ Logo.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.category-tag {
+    font-weight: bold;
+}

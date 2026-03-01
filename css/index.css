@@ -1,0 +1,23 @@
+/******** HEADER *********/
+header a img { 
+    margin-left: 20px
+}
+
+/***** Nav Titles *****/
+header > ul {
+    margin-top: 20px;
+}
+
+.p-5 img {
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    padding-bottom: 20px;
+
+}
+
+.p-5 p {
+    padding-bottom: 20px;
+}

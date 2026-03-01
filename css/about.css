@@ -1,0 +1,9 @@
+/******** COV Consulting Logo *********/
+header a img { 
+    margin-left: 2rem;
+}
+
+/***** Nav Titles *****/
+header > ul {
+    margin-top: 20px;
+}

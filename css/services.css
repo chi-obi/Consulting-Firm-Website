@@ -1,0 +1,120 @@
+/******** COV Consulting Logo *********/
+header a img { 
+    margin-left: 2rem;
+}
+
+/***** Nav Titles *****/
+header > ul {
+    margin-top: 20px;
+}
+
+/***** Carousel Images *****/
+#business-setup {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/business\ advisory.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#business-management {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/business\ management.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#playbook-insight {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/insight\ &\ playbook.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/***** Carousel Texts *****/
+.advisory-text {
+    color: black;
+}
+
+.opacity-75 {
+    color: black;
+}
+
+.insights-text {
+    color: white;
+}
+
+.insights-subtext {
+    color: white;
+}
+
+/***** Carousel Div Spacing *****/
+#myCarousel {
+    margin-bottom: 100px;
+    margin-top: -25px;
+}
+
+
+/***** Rounded Images *****/
+#tech-first {
+    margin-left:0px;
+}
+
+/***** Rounded Images, Texts, and Buttons *****/
+#rounded-section {
+    margin: 0 0 100px 100px;
+/*** make it reactive to changing screen sizes - first image is static ***/
+}
+
+
+/***** Featurettes Texts *****/
+/*** Our Approach ***/
+#approach-text {
+    align-content: center;
+    font-weight: 500px;
+    padding-left: 100px;
+}
+
+/*** Our Client ***/
+#client-text {
+    align-content: center;
+    font-weight: 500px;
+    padding-left: 100px
+}
+
+/*** Our Engagement ***/
+#engagement-text {
+    align-content: center;
+    font-weight: 500px;
+    padding-left: 100px;
+}
+
+/***** Featurettes Images *****/
+/*** Our Approach Image ***/
+#approach-image {
+    padding-left: 120px;
+    margin-bottom: -16px;
+    margin-top: -16px;
+}
+
+/*** Our Client Image ***/
+#client-image {
+    padding-right: -100px;
+    margin-top: -16px;
+    margin-bottom: -16px;
+}
+/*** Our Engagement Image ***/
+#engagement-image {
+    padding-left: 130px;
+    margin-bottom: -16px;
+    margin-top: -16px;
+}
+
+
+
+
+
+
+
